@@ -2,7 +2,7 @@
 <strong>*`Full Stack Developer`* - *`Competitive Coder`* - *`Enthusiastic Learner`*</strong>
 
 
-### 📜 Resume ➜ [here](https://drive.google.com/file/d/1jFjXm1FlDLkqaHQTUTPFM2vAIMdRUp9W/view?usp=sharing)
+### 📜 Resume ➜ [here](https://drive.google.com/file/d/11qjb-ujrXjwJZxSMnr0RHR1tFOvfjUeT/view?usp=sharing)
 
 ### 🔧 Skills:
 - DSA, C/C++
