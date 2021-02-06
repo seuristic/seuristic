@@ -4,7 +4,7 @@
 
 ### 🌟 Portfolio ➜ [website](https://mshahanwaz-portfolio.netlify.app)
 
-### 🛠️ Skills:
+### :fire: Skills/Expertise:
 - HTML, CSS, JS
 - ReactJS, NodeJS, ExpressJS
 - MongoDB, MySQL
