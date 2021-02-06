@@ -7,6 +7,7 @@
 ### :fire: Skills/Expertise:
 - HTML, CSS, JS
 - ReactJS, NodeJS, ExpressJS
+- Redux
 - MongoDB, MySQL
 - Firebase
 - Git, GitHub
