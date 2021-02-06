@@ -1,5 +1,5 @@
-# Hi, I am Mohammad Shahanwaz  ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)
-<strong>`Full Stack Developer` - `Competitive Coder` - `Enthusiastic Learner`</strong>
+# Hi, I am Mohammad Shahanwaz
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)**Full Stack Developer** - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)**Competitive Coder** - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)**Enthusiastic Learner**
 
 
 ### 🌟 Portfolio ➜ [website](https://mshahanwaz-portfolio.netlify.app)
