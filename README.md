@@ -20,7 +20,7 @@ RESUME
 ------
 Light theme | Dark theme
 -- | --
-[here](https://drive.google.com/file/d/1KLA8k1fpqC_Gee03SJy2zAJrescoE83W/view?usp=sharing) | [here](https://drive.google.com/file/d/1cEHqhB6fA-XiYX8r_d4c_GXl4t7Hiy3w/view?usp=sharing)
+[here](https://drive.google.com/file/d/1hWFQg-X0sTOcpynwwlJDyrVJEVVniVEo/view?usp=sharing) | [here](https://drive.google.com/file/d/1osPGzyTlQyAn6OVT4TLiCQH2T_4GKimt/view?usp=sharing)
 
 PERSONAL WEBSITE
 ----------------
