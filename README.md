@@ -24,7 +24,7 @@ Light theme | Dark theme
 
 PERSONAL WEBSITE
 ----------------
-[https://mshahanwaz-portfolio.netlify.app](https://mshahanwaz-portfolio.netlify.app/)
+[https://imshahanwaz.web.app](https://imshahanwaz.web.app/)
 
 FOLLOW ME
 ---------
