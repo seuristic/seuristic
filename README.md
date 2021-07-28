@@ -3,8 +3,15 @@
 <h1 align="center">Mohammad Shahanwaz</h1>
 <h2 align="center"><pre><code>Developer</code>    <code>Designer</code>    <code>Content Creator</code></pre></h2>
 
-<p align="justify"><code>Hello, I am M. Shahanwaz and I build stuffs for the web with the help of some tools and technologies with great user experience. I, generally, prefer to code when I feel like I am free. I keep myself indulge in doing different projects, reading, competing on Codeforces, talking, and many more. I try to be updated with the evolving technologies and advancements in this field to keep myself alive on this planet. :)</code></p>
+<p align="justify">Hello, I am M. Shahanwaz and I build stuffs for the web with the help of some tools and technologies with great user experience. I, generally, prefer to code when I feel like I am free. I keep myself indulge in doing different projects, reading, competing on Codeforces, talking, and many more. I try to be updated with the evolving technologies and advancements in this field to keep myself alive on this planet. :)</p>
   
+
+RESUME
+------
+Light theme | Dark theme
+-- | --
+[here](https://drive.google.com/file/d/1hWFQg-X0sTOcpynwwlJDyrVJEVVniVEo/view?usp=sharing) | [here](https://drive.google.com/file/d/1osPGzyTlQyAn6OVT4TLiCQH2T_4GKimt/view?usp=sharing)
+
 
 SKILLS
 ------
@@ -16,15 +23,10 @@ TOOLS
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) ![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-RESUME
-------
-Light theme | Dark theme
--- | --
-[here](https://drive.google.com/file/d/1hWFQg-X0sTOcpynwwlJDyrVJEVVniVEo/view?usp=sharing) | [here](https://drive.google.com/file/d/1osPGzyTlQyAn6OVT4TLiCQH2T_4GKimt/view?usp=sharing)
-
 PERSONAL WEBSITE
 ----------------
 [https://imshahanwaz.web.app](https://imshahanwaz.web.app/)
+
 
 FOLLOW ME
 ---------
