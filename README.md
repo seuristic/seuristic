@@ -1,9 +1,6 @@
-<img src="https://github.com/mshahanwaz/mshahanwaz/blob/main/3.png" alt="" width="100%" />
+<img src="https://github.com/mshahanwaz/mshahanwaz/blob/main/background.png" alt="" width="100%" />
 
-<h1 align="center">Mohammad Shahanwaz</h1>
-<h2 align="center"><pre><code>Developer</code>    <code>Designer</code>    <code>Content Creator</code></pre></h2>
-
-<p align="justify">Hello, I am M. Shahanwaz and I build stuffs for the web with the help of some tools and technologies with great user experience. I, generally, prefer to code when I feel like I am free. I keep myself indulge in doing different projects, reading, competing on Codeforces, talking, and many more. I try to be updated with the evolving technologies and advancements in this field to keep myself alive on this planet. :)</p>
+<p align="justify">Hello, I am Shahanwaz ✌️ and I build stuffs for the web with the help of some bunch of tools and technologies with great user experience. I, generally, prefer to code when I feel like I am free(really?). I keep myself indulge in doing different projects, reading, competing on Codeforces, talking, and eating 😋. I always try to keep myself updated with the evolving technologies to keep myself alive on this planet as a developer 👨‍💻 . </p>
   
 
 RESUME
@@ -31,6 +28,5 @@ PERSONAL WEBSITE
 FOLLOW ME
 ---------
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mshahanwaz) [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_mshahanwaz) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imshahanwaz) [![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mshahanwaz)
-<p>🙂 Also here!</p>
 <hr/>
 <p align="center"><code>Keep learning with coffee ☕</code></p>
