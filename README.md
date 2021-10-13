@@ -22,7 +22,7 @@ TOOLS
 
 PORTFOLIO
 ----------------
-[https://imshahanwaz.web.app](https://imshahanwaz.web.app/)
+[https://imshahanwaz.netlify.app/](https://imshahanwaz.web.app/)
 
 
 FOLLOW ME
