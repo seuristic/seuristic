@@ -6,7 +6,7 @@
 
 👨‍💻 Sometimes, I do CP alongside.
 
-📄 Resume - [here](https://drive.google.com/file/d/1osPGzyTlQyAn6OVT4TLiCQH2T_4GKimt/view?usp=sharing)
+📄 Resume - [here](https://drive.google.com/file/d/1dsgEmkBHSbWfOykmJJo6F4h4Ad-zfWTy/view?usp=sharing)
 
 🛩️ Portfolio - [https://imshahanwaz.netlify.app/](https://imshahanwaz.netlify.app/)
 
