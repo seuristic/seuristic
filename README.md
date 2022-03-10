@@ -8,7 +8,7 @@
 
 📄 Here is my Resume - [here](https://drive.google.com/file/d/1RFldluPiUXzuapkidvEPJ2n6SjOkFOPy/view?usp=sharing)
 
-🛩️ And Portfolio website - [mshahanwaz.me/](https://mshahanwaz.me/)
+🚀 And Portfolio website - [mshahanwaz.me/](https://mshahanwaz.me/)
 
 🔎 Find Me - [LinkedIn](https://www.linkedin.com/in/mshahanwaz) - [Twitter](https://twitter.com/_mshahanwaz) - [Instagram](https://instagram.com/imshahanwaz) - [Codepen](https://codepen.io/mshahanwaz)
 
