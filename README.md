@@ -13,3 +13,5 @@
 🔎 Find Me - [LinkedIn](https://www.linkedin.com/in/mshahanwaz) - [Twitter](https://twitter.com/_mshahanwaz) - [Instagram](https://instagram.com/imshahanwaz) - [Codepen](https://codepen.io/mshahanwaz)
 
 ❤️ Support Me - [here](https://ko-fi.com/mshahanwaz)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mshahanwaz&show_icons=true&locale=en" alt="mszeles" /></p>
