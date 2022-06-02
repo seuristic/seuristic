@@ -6,7 +6,7 @@
 
 👨‍💻 Sometimes, I do CP on [CodeChef](https://www.codechef.com/users/nuliya) and [CodeForces](https://codeforces.com/profile/nuliya).
 
-📄 Resume - [here](https://drive.google.com/file/d/1RFldluPiUXzuapkidvEPJ2n6SjOkFOPy/view?usp=sharing)
+📄 Resume - [here](https://drive.google.com/file/d/1b9qWEM1gYSLXMobeuvu9Jnq6YhRDwX7P/view?usp=sharing)
 
 🚀 Portfolio website - [mshahanwaz.me/](https://mshahanwaz.me/)
 
