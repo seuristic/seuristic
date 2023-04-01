@@ -1,4 +1,4 @@
-👋 Hi there, I am <strong><a href="https://mshahanwaz.me">Shahanwaz</a></strong>.
+👋 Hi there, I am <strong><a href="https://mshahanwaz.vercel.app">Shahanwaz</a></strong>.
 
 👉‍ I build stuffs related to web.
 
@@ -8,7 +8,7 @@
 
 📄 Resume - [here](https://drive.google.com/file/d/1b9qWEM1gYSLXMobeuvu9Jnq6YhRDwX7P/view?usp=sharing)
 
-🚀 Portfolio website - [mshahanwaz.me/](https://mshahanwaz.me/)
+🚀 Portfolio website - [mshahanwaz.me/](https://mshahanwaz.vercel.app/)
 
 🔎 Find Me - [LinkedIn](https://www.linkedin.com/in/mshahanwaz) - [Twitter](https://twitter.com/_mshahanwaz) - [Instagram](https://instagram.com/imshahanwaz) - [Codepen](https://codepen.io/mshahanwaz)
 
