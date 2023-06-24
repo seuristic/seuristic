@@ -1,6 +1,6 @@
-👋 Hi there, I am <strong><a href="https://mshahanwaz.vercel.app">Shahanwaz</a></strong>.
+👋 Hi there, I am <strong><a href="https://shahanwaz.vercel.app">Shahanwaz</a></strong>.
 
-👉‍ I build stuffs related to web.
+👉‍ I build stuff related to the web.
 
 📌 I do it mostly with React(Next.js).
 
@@ -8,7 +8,7 @@
 
 📄 Resume - [here](https://drive.google.com/file/d/1b9qWEM1gYSLXMobeuvu9Jnq6YhRDwX7P/view?usp=sharing)
 
-🚀 Portfolio website - [mshahanwaz.me/](https://mshahanwaz.vercel.app/)
+🚀 Portfolio website - [shahanwaz.in/](https://shahanwaz.vercel.app/)
 
 🔎 Find Me - [LinkedIn](https://www.linkedin.com/in/mshahanwaz) - [Twitter](https://twitter.com/_mshahanwaz) - [Instagram](https://instagram.com/imshahanwaz) - [Codepen](https://codepen.io/mshahanwaz)
 
