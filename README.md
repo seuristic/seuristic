@@ -12,7 +12,7 @@ I'm a passionate web developer who loves bringing ideas to life through code. My
 ### 📄 Portfolio & Resume
 
 - 📂 Explore my [portfolio website](https://shahanwaz.vercel.app/).
-- 📑 Peek into my professional journey through my [resume](https://drive.google.com/file/d/1b9qWEM1gYSLXMobeuvu9Jnq6YhRDwX7P/view?usp=sharing).
+- 📑 Peek into my professional journey through my [resume](https://drive.google.com/uc?export=download&id=1WzJkfRpXK2Ccc3yb9GWpQNXSiKifsDfO).
 
 ### 🌐 Connect With Me
 
