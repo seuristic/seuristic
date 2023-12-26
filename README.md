@@ -1,19 +1,36 @@
-👋 Hi there, I am <strong><a href="https://shahanwaz.vercel.app">Shahanwaz</a></strong>.
+## 👋 Hey there, I'm Shahanwaz!
 
-👉‍ I build stuff related to the web.
+I'm a passionate web developer who loves bringing ideas to life through code. My playground is the web, and I specialize in crafting immersive experiences with React and Next.js.
 
-📌 I do it mostly with React(Next.js).
+🚀 Check out my work at [shahanwaz.in](https://shahanwaz.vercel.app/).
 
-👨‍💻 Sometimes, I do CP on [CodeChef](https://www.codechef.com/users/nuliya) and [CodeForces](https://codeforces.com/profile/nuliya).
+### 🌐 What I Do
 
-📄 Resume - [here](https://drive.google.com/file/d/1b9qWEM1gYSLXMobeuvu9Jnq6YhRDwX7P/view?usp=sharing)
+- 👨‍💻 Crafting web wonders with React and Next.js.
+- 🏆 Occasionally diving into competitive programming on [CodeChef](https://www.codechef.com/users/nuliya) and [CodeForces](https://codeforces.com/profile/nuliya).
 
-🚀 Portfolio website - [shahanwaz.in/](https://shahanwaz.vercel.app/)
+### 📄 Portfolio & Resume
 
-🔎 Find Me - [LinkedIn](https://www.linkedin.com/in/mshahanwaz) - [Twitter](https://twitter.com/_mshahanwaz) - [Instagram](https://instagram.com/imshahanwaz) - [Codepen](https://codepen.io/mshahanwaz)
+- 📂 Explore my [portfolio website](https://shahanwaz.vercel.app/).
+- 📑 Peek into my professional journey through my [resume](https://drive.google.com/file/d/1b9qWEM1gYSLXMobeuvu9Jnq6YhRDwX7P/view?usp=sharing).
 
-❤️ Support Me - [here](https://ko-fi.com/mshahanwaz)
+### 🌐 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mshahanwaz&show_icons=true&locale=en&theme=dark" alt="mszeles" /></p>
+- 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/mshahanwaz).
+- 🐦 Follow me on [Twitter](https://twitter.com/_mshahanwaz).
+- 📸 Check out snapshots of my life on [Instagram](https://instagram.com/imshahanwaz).
+- ✒️ View my creative side on [Codepen](https://codepen.io/mshahanwaz).
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mshahanwaz&theme=dark" alt="mshahanwaz" /></p>
+### ❤️ Support Me
+
+- ☕ Buy me a coffee on [Ko-fi](https://ko-fi.com/mshahanwaz).
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mshahanwaz&show_icons=true&locale=en&theme=dark)
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mshahanwaz&theme=dark)
+
+Let's build the web together! 🚀✨
