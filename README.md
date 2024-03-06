@@ -2,7 +2,7 @@
 
 I'm a passionate web developer who loves bringing ideas to life through code. My playground is the web, and I specialize in crafting immersive experiences with React and Next.js.
 
-🚀 Check out my work at [shahanwaz.in](https://shahanwaz.vercel.app/).
+🚀 Check out my work at [shahanwaz.dev](https://shahanwaz.dev).
 
 ### 🌐 Connect With Me
 
