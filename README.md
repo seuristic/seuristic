@@ -1,14 +1,9 @@
 ## 👋 Hey there, I'm Shahanwaz!
 
-I'm a passionate web developer who loves bringing ideas to life through code. My playground is the web, and I specialize in crafting immersive experiences with React and Next.js.
+I'm a software engineer, passionate about web development, who loves bringing ideas to life through code. I specialize in crafting immersive experiences with React and Next.js.
 
-🚀 Check out my work at [shahanwaz.dev](https://shahanwaz.dev).
+- View my resume --> [https://resume.shahanwaz.dev/](https://resume.shahanwaz.dev/), ([`download`](https://resume.shahanwaz.dev/M_Shahanwaz_Resume.pdf))
+- Check out my work --> [https://shahanwaz.dev/](https://shahanwaz.dev)
+- Connect me on LinkedIn --> [https://www.linkedin.com/in/mshahanwaz/](https://www.linkedin.com/in/mshahanwaz/)
 
-### 🌐 Connect With Me
-
-- Let's connect on [LinkedIn](https://www.linkedin.com/in/mshahanwaz).
-- Follow me on [Twitter](https://twitter.com/_mshahanwaz).
-- Check out snapshots of my life on [Instagram](https://instagram.com/imshahanwaz).
-- View my creative side on [Codepen](https://codepen.io/mshahanwaz).
-
-Let's build the web together! ✨
+Let's build the web together! 🚀
